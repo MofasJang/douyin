@@ -20,5 +20,6 @@ export default {
 <style scoped>
     .indexwrap{
         height: 100%;
+        background: black;
     }
 </style>>

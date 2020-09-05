@@ -39,6 +39,7 @@ export default {
         padding: 20px;
         display: flex;
         box-sizing: border-box;
+        z-index: 999;
     }
     .left,.right{
         width: 20%;

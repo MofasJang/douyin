@@ -27,7 +27,6 @@ export default {
         height: 50px;
         line-height: 50px;
         width: 100%;
-        background: black;
         position: fixed;
         bottom: 0;
         left: 0;
@@ -35,7 +34,7 @@ export default {
         font-size: 16px;
         display: flex;
         justify-items: center;
-
+        z-index: 999;
     }
     .tab-bar .item{
         flex:1;
