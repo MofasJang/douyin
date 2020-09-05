@@ -31,7 +31,7 @@ export default {
 </script>
 <style scoped>
     .top-bar{
-        background: #000;
+        position: fixed;
         width: 100%;
         height: 60px;
         font-size: 18px;
